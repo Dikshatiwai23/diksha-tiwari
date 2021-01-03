@@ -1,0 +1,9 @@
+public class main{
+public static void main(string[] args){
+string s1="diksha";
+string s2="tiwari";
+string s3="diksha";
+system.out.println(s1.equals(s2));
+system.out.println(s1.equals(s3));
+}
+}
