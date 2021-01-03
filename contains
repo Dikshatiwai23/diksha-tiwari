@@ -1,0 +1,8 @@
+public class main{
+public static void main(string[] args){
+string s= 'diksha';
+system.out.println(s.contains('dik'));
+system.out.println(s.contains('sha'));
+system.out.println(s.contains('aag'));
+}
+}
